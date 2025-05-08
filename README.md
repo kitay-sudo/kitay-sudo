@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kitay-sudo
+- 👋 Hi, I’m @kitay
 - 👨‍💻 Backend engineer with a focus on complex business logic and distributed systems  
 - 🤖 Working with AI models and building automation solutions using modern LLMs  
 - 🛠 Skilled in Python, Go, Rust, and other technologies depending on project needs  
