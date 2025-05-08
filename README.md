@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @kitay
-- 👨‍💻 Backend engineer with a focus on complex business logic and distributed systems  
-- 🤖 Working with AI models and building automation solutions using modern LLMs  
-- 🛠 Skilled in Python, Go, Rust, and other technologies depending on project needs  
-- 📫 Reach me via Telegram: [@kitay9](https://t.me/kitay9)
+- 💼 Experienced backend developer specializing in high-load systems, custom business logic, and distributed infrastructure  
+- 🤖 Actively building AI-powered tools and integrating modern LLMs into real-world applications  
+- 🛠 Proficient in Python, Go, Rust — selecting the right stack to meet architectural and business demands  
+- 🔍 Focused on clean architecture, scalability, and reliability  
+- 📫 Reach out via Telegram: [@kitay9](https://t.me/kitay9)
 
 <!---
 kitay-sudo/kitay-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
