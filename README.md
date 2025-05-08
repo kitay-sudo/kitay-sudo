@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kitay
 - 💼 Experienced backend developer specializing in high-load systems, custom business logic, and distributed infrastructure  
 - 🤖 Actively building AI-powered tools and integrating modern LLMs into real-world applications  
 - 🛠 Proficient in Python, Go, Rust — selecting the right stack to meet architectural and business demands  
