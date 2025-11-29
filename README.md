@@ -4,6 +4,10 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat&logo=anthropic&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
 
 ### EN
 
@@ -13,10 +17,4 @@ Backend engineer with expertise in distributed systems and complex business logi
 
 Backend-инженер с опытом в распределённых системах и сложной бизнес-логике. Сейчас фокусируюсь на создании production-ready AI-приложений с использованием Anthropic Claude API и интеграции LLM в реальные бизнес-процессы. Стек: Python, Go, Rust — выбор зависит от требований проекта и производительности. Ценю чистую архитектуру, надёжные системы и хорошо структурированный код.
 
----
-
 📫 Telegram: [@kitay9](https://t.me/kitay9)
-<!---
-kitay-sudo/kitay-sudo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
