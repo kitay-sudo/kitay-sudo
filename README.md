@@ -13,8 +13,4 @@
 
 Backend engineer with expertise in distributed systems and complex business logic. Currently focused on building production-grade AI applications using Anthropic Claude API and integrating LLMs into real-world business workflows. Tech stack includes Python, Go, and Rust — selected based on project requirements and performance needs. Committed to clean architecture, reliable systems, and well-structured code.
 
-### RU
-
-Backend-инженер с опытом в распределённых системах и сложной бизнес-логике. Сейчас фокусируюсь на создании production-ready AI-приложений с использованием Anthropic Claude API и интеграции LLM в реальные бизнес-процессы. Стек: Python, Go, Rust — выбор зависит от требований проекта и производительности. Ценю чистую архитектуру, надёжные системы и хорошо структурированный код.
-
 [![Telegram](https://img.shields.io/badge/Telegram-@kitay9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kitay9)
