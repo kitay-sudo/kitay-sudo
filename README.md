@@ -9,8 +9,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
 
-### EN
-
 Backend engineer with expertise in distributed systems and complex business logic. Currently focused on building production-grade AI applications using Anthropic Claude API and integrating LLMs into real-world business workflows. Tech stack includes Python, Go, and Rust — selected based on project requirements and performance needs. Committed to clean architecture, reliable systems, and well-structured code.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kitay9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kitay9)
