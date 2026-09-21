@@ -11,4 +11,16 @@
 
 Backend engineer with expertise in distributed systems and complex business logic. Currently focused on building production-grade AI applications using Anthropic Claude API and integrating LLMs into real-world business workflows. Tech stack includes Python, Go, and Rust — selected based on project requirements and performance needs. Committed to clean architecture, reliable systems, and well-structured code.
 
+## 🏆 Победитель Космохакатона, Красноярск
+
+🥇 **1 место** · команда Vectra · кейс SR Data
+
+Проверяем лес из космоса: по спутниковым снимкам и картам биомассы сервис считает, сколько углерода хранит лес, что с ним произошло и сколько это углеродных единиц.
+
+## 🏆 Cosmohackathon Winner, Krasnoyarsk
+
+🥇 **1st place** · team Vectra · SR Data track
+
+Checking forests from orbit: using satellite imagery and biomass maps, the service measures how much carbon a forest holds, what happened to it, and how many carbon units that adds up to.
+
 [![Telegram](https://img.shields.io/badge/Telegram-@kitay9-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kitay9)
