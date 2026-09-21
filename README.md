@@ -13,13 +13,13 @@ Backend engineer with expertise in distributed systems and complex business logi
 
 ## 🏆 Победитель Космохакатона, Красноярск
 
-🥇 **1 место** · команда Vectra · кейс SR Data
+🥇 **1 место** · 95,56 / 100 · команда Vectra · кейс SR Data
 
 Проверяем лес из космоса: по спутниковым снимкам и картам биомассы сервис считает, сколько углерода хранит лес, что с ним произошло и сколько это углеродных единиц.
 
 ## 🏆 Cosmohackathon Winner, Krasnoyarsk
 
-🥇 **1st place** · team Vectra · SR Data track
+🥇 **1st place** · 95.56 / 100 · team Vectra · SR Data track
 
 Checking forests from orbit: using satellite imagery and biomass maps, the service measures how much carbon a forest holds, what happened to it, and how many carbon units that adds up to.
 
