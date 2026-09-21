@@ -9,7 +9,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=blockchain.com&logoColor=white)
 
-Backend engineer with expertise in distributed systems and complex business logic. Currently focused on building production-grade AI applications using Anthropic Claude API and integrating LLMs into real-world business workflows. Tech stack includes Python, Go, and Rust — selected based on project requirements and performance needs. Committed to clean architecture, reliable systems, and well-structured code.
+Backend engineer, in commercial development since 2014. Distributed systems, complex business logic, and now production AI applications and LLM integration into real business workflows. Freelance and contract work: I take projects from spec to production on my own and work with clients directly. Experience in retail, logistics, manufacturing and sports. Python, Go, Rust, choosing the stack for the task. I care about clean architecture and reliable systems
 
 ## 🏆 Победитель Космохакатона, Красноярск
 
