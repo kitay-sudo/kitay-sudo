@@ -13,7 +13,7 @@ Backend engineer, in commercial development since 2014. Distributed systems, com
 
 ## 🏆 Космохакатон: два первых места
 
-🥇 **1 место в финале, Москва** · команда Vectra · кейс FloodValue
+🥇 **1 место в финале, Москва** · 93,32 / 100 · команда Vectra · кейс FloodValue
 
 Оцениваем ущерб от паводка из космоса: по радарным снимкам Sentinel-1 нейросеть находит воду, сервис считает ожидаемый ущерб объектам в рублях и подсказывает, какую спутниковую съёмку докупить в пределах бюджета.
 
@@ -23,7 +23,7 @@ Backend engineer, in commercial development since 2014. Distributed systems, com
 
 ## 🏆 Cosmohackathon: two first places
 
-🥇 **1st place in the final, Moscow** · team Vectra · FloodValue track
+🥇 **1st place in the final, Moscow** · 93,32 / 100 · team Vectra · FloodValue track
 
 Assessing flood damage from orbit: a neural network finds water on Sentinel-1 radar imagery, and the service estimates the expected damage to assets in rubles and recommends which satellite imagery to buy within the budget.
 
