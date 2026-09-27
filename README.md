@@ -11,15 +11,23 @@
 
 Backend engineer, in commercial development since 2014. Distributed systems, complex business logic, and now production AI applications and LLM integration into real business workflows. Freelance and contract work: I take projects from spec to production on my own and work with clients directly. Experience in retail, logistics, manufacturing and sports. Python, Go, Rust, choosing the stack for the task. I care about clean architecture and reliable systems
 
-## 🏆 Победитель Космохакатона, Красноярск
+## 🏆 Космохакатон: два первых места
 
-🥇 **1 место** · 95,56 / 100 · команда Vectra · кейс SR Data
+🥇 **1 место в финале, Москва** · команда Vectra · кейс FloodValue
+
+Оцениваем ущерб от паводка из космоса: по радарным снимкам Sentinel-1 нейросеть находит воду, сервис считает ожидаемый ущерб объектам в рублях и подсказывает, какую спутниковую съёмку докупить в пределах бюджета.
+
+🥇 **1 место, Красноярск** · 95,56 / 100 · команда Vectra · кейс SR Data
 
 Проверяем лес из космоса: по спутниковым снимкам и картам биомассы сервис считает, сколько углерода хранит лес, что с ним произошло и сколько это углеродных единиц.
 
-## 🏆 Cosmohackathon Winner, Krasnoyarsk
+## 🏆 Cosmohackathon: two first places
 
-🥇 **1st place** · 95.56 / 100 · team Vectra · SR Data track
+🥇 **1st place in the final, Moscow** · team Vectra · FloodValue track
+
+Assessing flood damage from orbit: a neural network finds water on Sentinel-1 radar imagery, and the service estimates the expected damage to assets in rubles and recommends which satellite imagery to buy within the budget.
+
+🥇 **1st place, Krasnoyarsk** · 95.56 / 100 · team Vectra · SR Data track
 
 Checking forests from orbit: using satellite imagery and biomass maps, the service measures how much carbon a forest holds, what happened to it, and how many carbon units that adds up to.
 
